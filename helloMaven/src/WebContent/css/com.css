@@ -1,0 +1,4 @@
+﻿.body{margin-top:10px; margin-left:80px; margin-right:80px; background-color:#99CC66;}
+.systemName{font-size:18px;font-weight: bold;height:40px;}
+.button{word-wrap:break-word; padding:5px; font-size:17px; font-weight: bold; hight:30px; width:220px;-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
+.button:hover {opacity: 0.8;cursor : pointer;}
